@@ -30,7 +30,7 @@ I work on problems connecting **software with physical systems**: reliable build
 
 I am exploring **fully funded MSc/research assistantship opportunities**, academic collaboration, mentorship and applied-research partnerships in robotics, control, AI and systems engineering.
 
-**[Research directions](https://github.com/heisqasim/telos-nexus-showcase/blob/main/RESEARCH.md)** · **[Technical case studies](https://github.com/heisqasim/telos-nexus-showcase)** · **[Telos Nexus](https://telosnexus.io)** · **[Email](mailto:heisqasim@gmail.com)**
+**[Research directions](https://github.com/heisqasim/telos-nexus-showcase/blob/main/RESEARCH.md)** · **[Technical case studies](https://github.com/heisqasim/telos-nexus-showcase)** · **[Public code + 14 passing tests](https://github.com/heisqasim/telos-nexus-showcase/tree/main/examples)** · **[Telos Nexus](https://telosnexus.io)** · **[Email](mailto:heisqasim@gmail.com)**
 
 ---
 
